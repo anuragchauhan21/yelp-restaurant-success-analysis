@@ -3,6 +3,9 @@
 ## Problem Statement  
 To explore and analyze Yelp’s restaurant data to uncover insights about **user engagement**, **review behavior**, **peak hours**, and **city-wise restaurant performance.** The aim is to identify factors contributing to restaurant success.
 
+![Yelp](https://github.com/anuragchauhan21/garage/blob/main/Screenshot%202025-06-26%20205532.png)
+
+
 ## Dataset  
 This project involved handling and analyzing over 3.9 million rows of data. </br>
 Sourced from [Yelp Open Dataset](https://www.yelp.com/dataset), including:
