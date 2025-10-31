@@ -1,4 +1,4 @@
-# Yelp Restaurant Data Analysis
+# Yelp Restaurant Success Analysis
 
 ## Problem Statement  
 To explore and analyze Yelp’s restaurant data to uncover insights about **user engagement**, **review behavior**, **peak hours**, and **city-wise restaurant performance.** The aim is to identify factors contributing to restaurant success.
